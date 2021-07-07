@@ -18,7 +18,7 @@
   "homepage": "https://github.com/degordian/js-testing-toolkit#readme",
   "dependencies": {
     "@types/chai": "^4.1.2",
-    "@types/mocha": "^2.2.47",
+    "@types/mocha": "^8.2.3",
     "@types/node": "^9.3.0",
     "@types/sinon": "^7.5.0",
     "@types/sinon-chai": "^3.2.3",
